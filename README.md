@@ -1,6 +1,6 @@
 ### What is CONFIRE SHERLOCK?
 
-CONFIRE SHERLOCK is a software product which protects public computers from any unwanted changes such as viruses, file clutter and unauthorized programs. You can also block external drives and password protect the installation. It's easy to install and use. The essential tool for any computer room in schools, universities and museums.
+[CONFIRE SHERLOCK](http://sherlock.stueber.de) is a commercial software product which protects public computers from any unwanted changes such as viruses, file clutter and unauthorized programs. You can also block external drives and password protect the installation. It's easy to install and use. The essential tool for any computer room in schools, universities and museums.
 
 ### What is the CONFIRE SHERLOCK CONSOLE?
 
