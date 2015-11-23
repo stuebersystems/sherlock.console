@@ -16,7 +16,7 @@ A ready made build of the CONFIRE SHERLOCK CONSOLE is part of every CONFIRE SHER
 
 The project includes a complete implementation of the API interface in C#. To build the source code you need to do the following steps:
 
-* setup Visual Studio 2015 (Community Version)
+* setup Visual Studio 2015 (Community version should be enough)
 * clone this respository
 * open solution file ConfireSherlockConsole.sln and hit Build.
 
