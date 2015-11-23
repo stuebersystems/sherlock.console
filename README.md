@@ -28,4 +28,4 @@ You can find documentation of all commands here [here](http://doc.stueber.de/she
 
 ### Feedback
 
-If you have any questions please write us at cfs(at)stueber.de.
+If you have any questions please write us at cfs (at) stueber.de.
