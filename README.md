@@ -28,4 +28,4 @@ You can find documentation of all commands [here](http://doc.stueber.de/sherlock
 
 ### Feedback
 
-If you have any questions please write us at cfs(at)stueber.de.
+If you have any questions please write us at cfs@stueber.de.
