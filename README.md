@@ -20,7 +20,7 @@ The project includes a complete implementation of the API interface in C#. To bu
 * clone this respository
 * open solution file ConfireSherlockConsole.sln and hit Build.
 
-For testing the console you can grab a test version of CONFIRE SHERLOCK from [here](sherlock.stueber.de/download.php) (German setups) or from [here](sherlock.stueber.co.uk/download.php) (English setups)
+For testing the console you can grab a test version of CONFIRE SHERLOCK from [here](http://sherlock.stueber.de/download.php) (German setups) or from [here](http://sherlock.stueber.co.uk/download.php) (English setups)
 
 ### Documentation
 
