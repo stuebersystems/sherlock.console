@@ -24,7 +24,7 @@ For testing the console you can grab a test version of CONFIRE SHERLOCK from [he
 
 ### Documentation
 
-You can find documentation of all commands [here](http://doc.stueber.de/sherlock/v3/console.html#console)
+You can find documentation of all commands [here (German)](http://doc.sherlock3.stueber.de/console.html) or [here (English)](http://doc.sherlock3.stueber.co.uk/console.html)
 
 ### Feedback
 
