@@ -1,12 +1,12 @@
-### What is CONFIRE SHERLOCK?
+## What is CONFIRE SHERLOCK?
 
-[CONFIRE SHERLOCK](http://sherlock.stueber.de) is a commercial software product which protects public computers from any unwanted changes such as viruses, file clutter and unauthorized programs. You can also block external drives and password protect the installation. It's easy to install and use. The essential tool for any computer room in schools, universities and museums.
+[CONFIRE SHERLOCK](https://sherlock.stueber.co.uk) is a commercial software product which protects public computers from any unwanted changes such as viruses, file clutter and unauthorized programs. You can also block external drives and password protect the installation. It's easy to install and use. The essential tool for any computer room in schools, universities and museums.
 
 ### What is the CONFIRE SHERLOCK CONSOLE?
 
 The CONFIRE SHERLOCK CONSOLE is an additional tool to contol the configuration of CONFIRE SHERLOCK from the Windows command line. It utilizes the CONFIRE SHERLOCK API, a dynamic link library (DLL) which is part of CONFIRE SHERLOCK. The CONFIRE SHERLOCK CONSOLE is open source.
 
-### Getting started with CONFIRE SHERLOCK CONSOLE
+## Getting started with CONFIRE SHERLOCK CONSOLE
 
 A ready made build of the CONFIRE SHERLOCK CONSOLE is part of every CONFIRE SHERLOCK installation. This respository is for developers who want to:
 
@@ -16,16 +16,16 @@ A ready made build of the CONFIRE SHERLOCK CONSOLE is part of every CONFIRE SHER
 
 The project includes a complete implementation of the API interface in C#. To build the source code you need to do the following steps:
 
-* setup Visual Studio 2015 (Community version should be enough)
+* setup Visual Studio 2017 (Community version should be enough)
 * clone this respository
 * open solution file ConfireSherlockConsole.sln and hit Build.
 
 For testing the console you can grab a test version of CONFIRE SHERLOCK from [here](http://sherlock.stueber.de/download.php) (German setups) or from [here](http://sherlock.stueber.co.uk/download.php) (English setups)
 
-### Documentation
+## Documentation
 
 You can find documentation of all commands [here (German)](http://doc.sherlock3.stueber.de/console.html) or [here (English)](http://doc.sherlock3.stueber.co.uk/console.html)
 
-### Feedback
+## Feedback
 
 If you have any questions please write us at cfs@stueber.de.
