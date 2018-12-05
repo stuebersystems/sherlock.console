@@ -2,7 +2,7 @@
 
 [CONFIRE SHERLOCK](https://sherlock.stueber.co.uk) is a commercial software product which protects public computers from any unwanted changes such as viruses, file clutter and unauthorized programs. You can also block external drives and password protect the installation. It's easy to install and use. The essential tool for any computer room in schools, universities and museums.
 
-### What is the CONFIRE SHERLOCK CONSOLE?
+## What is the CONFIRE SHERLOCK CONSOLE?
 
 The CONFIRE SHERLOCK CONSOLE is an additional tool to contol the configuration of CONFIRE SHERLOCK from the Windows command line. It utilizes the CONFIRE SHERLOCK API, a dynamic link library (DLL) which is part of CONFIRE SHERLOCK. The CONFIRE SHERLOCK CONSOLE is open source.
 
